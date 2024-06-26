@@ -1,0 +1,5 @@
+**/.vagrant
+**/azenv
+**/azwenv
+
+**/.env
